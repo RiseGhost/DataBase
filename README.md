@@ -50,4 +50,4 @@ Uma aplicação possa ser modificada, alterando a forma de utilização ou acess
 <p>-> Desfinição das estruturas físicas que permitam obter um nível de desempanho, segunrança e consistência satisfatório.
 <p>-> Defenição das políticas de armazenamento de informação, de acordo com o número, exigência e necessidades de casa cliente específico.
 
-**Internal level -> The physical representation of the database of the database on the computer. This level describes _how_ the data is stored in the database. **
+**Internal level -> The physical representation of the database of the database on the computer. This level describes _how_ the data is stored in the database**
