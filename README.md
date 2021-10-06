@@ -60,10 +60,10 @@ Uma aplicação possa ser modificada, alterando a forma de utilização ou acess
 	- informação semântica sobre os dados;
 	- informações de segunrança e integridade.🔐
 **Conceptual level  -> The community view of the database. This level describes _what_ data is stored in the database and the relartionships among the data. _(Na visão da comunidade de bancos de dados. Este nível descreve quais dados são armazenados no banco de dados e os relacionamente entre os dados.)_**
-<p>O nível conceptual dá suporte às visões externas, na medida em que quaisquer dados disponíveis para qualquer utlizador devem estar presentes no nível conceptual, ou set deriváveis a partir deste. No entanto, este nível não deve conter pormenores dependentes do armazenamento. Por exemplo, a descrição de uma entidade deve conter apenas os tipos de dados dos atributos (por exemplo, _integer_, _real_,ou _char_), mas não quaiquer considerações de armazenamento, como o número de bytes ocupados.
+<p>O nível conceptual dá suporte às visões externas, na medida em que quaisquer dados disponíveis para qualquer utlizador devem estar presentes no nível conceptual, ou set deriváveis a partir deste. No entanto, este nível não deve conter pormenores dependentes do armazenamento. Por exemplo, a descrição de uma entidade deve conter apenas os tipos de dados dos atributos (por exemplo, integer, real,ou char), mas não quaiquer considerações de armazenamento, como o número de bytes ocupados.
 
 	Nível de visualização ("views" ou nível externo):
-	- Define um número de visões simplificadas do domínio específico. Descreve apenas parte de bancos de dados. Este nível é usado pelos usuários.
+	- Define um número de visões simplificadas do domínio específico. <p>Descreve apenas parte de bancos de dados. Este nível é usado pelos usuários.
 **External level -> The user´s view of the database. This level describe that part of the database that is relevant to each user. _(A visão que os usuários tem do banco de dados. Este nível descreve a parte do banco de dados que é relevante para cada usuário.)_**
 
 ### Independência de dados
