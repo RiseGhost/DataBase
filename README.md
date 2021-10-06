@@ -64,7 +64,8 @@ Uma aplicação possa ser modificada, alterando a forma de utilização ou acess
 
 	Nível de visualização ("views" ou nível externo):
 	- Define um número de visões simplificadas do domínio específico.
-	Descreve apenas parte de bancos de dados. Este nível é usado pelos usuários.
+	- Descreve apenas parte de bancos de dados. 
+	- Este nível é usado pelos usuários.
 **External level -> The user´s view of the database. This level describe that part of the database that is relevant to each user. _(A visão que os usuários tem do banco de dados. Este nível descreve a parte do banco de dados que é relevante para cada usuário.)_**
 
 ### Independência de dados
